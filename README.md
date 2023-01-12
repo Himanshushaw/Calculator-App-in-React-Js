@@ -49,6 +49,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+Screenshot
+
+![REACT_CALC_](https://user-images.githubusercontent.com/65149117/212069906-5ed73461-4069-4955-9443-fb57350e6cc4.PNG)
+
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
